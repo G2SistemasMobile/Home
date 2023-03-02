@@ -3,7 +3,7 @@
 
 ## Links dos Projetos:<br/>
 **Mobile**<br/>
---G2Entregas:<br/>
+<a href="https://www.youtube.com/watch?v=iOQz2r6ZtR4">--G2Entregas</a>
 --G2ForçaDeVendas:<br/>
 --G2Expedição:<br/>
 **Sincronizadores**<br/>
@@ -14,6 +14,6 @@
 **Projetos Java**<br/>
 --ExeLi:<br/>
 --ExeNeo:<br/>
-**Adicionar:**
+**Adicionar:**<br/>
 --Manuais e Tutoriais:<br/>
 
