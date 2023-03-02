@@ -3,18 +3,17 @@
 
 ## Links dos Projetos:<br/>
 **Mobile**<br/>
-<a href="https://www.youtube.com/watch?v=iOQz2r6ZtR4"></a>
-<a href="https://github.com/G2SistemasMobile/AgoraVai/archive/refs/heads/main.zip">TESTA AI PATRAO</a>
---G2ForçaDeVendas:<br/>
---G2Expedição:<br/>
+<a href="url">G2FVApk</a><br/>
+<a href="url">G2EntregasApk</a><br/>
+<a href="url">G2ExpediçãoApk</a><br/>
 **Sincronizadores**<br/>
---SincGeral Força De Vendas:<br/>
---SincPedido Força de Vendas:<br/>
---SincTray:<br/>
---SincEntregas:<br/>
-**Projetos Java**<br/>
---ExeLi:<br/>
---ExeNeo:<br/>
-**Adicionar:**<br/>
---Manuais e Tutoriais:<br/>
+<a href="url">Sincronizador Geral: Força de vendas</a><br/>
+<a href="url">Sincronizador Pedido: Força de vendas</a><br/>
+<a href="url">Sincronizador Tray</a><br/>
+<a href="url">Sincronizador Entregas</a><br/>
+**Projetos**<br/>
+<a href="url">Exe-Li</a><br/>
+<a href="url">Exe-Neo</a><br/>
+**Manuais e Tutoriais:**<br/>
+<a href="url">Scripts G2Mobile</a><br/>
 
