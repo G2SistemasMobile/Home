@@ -3,17 +3,30 @@
 
 ## Links dos Projetos:
 **Mobile**
---G2Entregas:\r\n
---G2ForçaDeVendas:\r\n
+
+--G2Entregas:
+
+--G2ForçaDeVendas:
+
 --G2Expedição:
+
 **Sincronizadores**
+
 --SincGeral Força De Vendas:
+
 --SincPedido Força de Vendas:
+
 --SincTray:
+
 --SincEntregas:
+
 **Projetos Java**
+
 --ExeLi:
+
 --ExeNeo:
+
 **Adicionar:**
+
 --Manuais e Tutoriais:
 
