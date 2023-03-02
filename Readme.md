@@ -3,7 +3,8 @@
 
 ## Links dos Projetos:<br/>
 **Mobile**<br/>
-<a href="https://www.youtube.com/watch?v=iOQz2r6ZtR4">--G2Entregas</a>
+<a href="https://www.youtube.com/watch?v=iOQz2r6ZtR4"></a>
+<a href="https://github.com/G2SistemasMobile/AgoraVai/archive/refs/heads/main.zip">TESTA AI PATRAO</a>
 --G2ForçaDeVendas:<br/>
 --G2Expedição:<br/>
 **Sincronizadores**<br/>
